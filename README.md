@@ -1,6 +1,6 @@
-# flutter_quiz
+# Quizzare
 
-A new Flutter application.
+A new quiz application in Flutter.
 
 ## Getting Started
 
